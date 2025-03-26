@@ -16,6 +16,17 @@ I'm a **Software Engineering student** who is passionate about learning new tech
 Here's a rough estimate of how often I code and the languages I use:  
 
 > *Note: The percentages are just a rough estimate based on my current usage.*
+🟢 Laravel ██████████░░░░░░ 75%
+🟢 Next.js ████████░░░░░░░░ 60%
+🟡 Express.js ██████░░░░░░░░░░ 50%
+🟡 JavaScript ██████░░░░░░░░░░ 50%
+🔵 HTML & CSS █████░░░░░░░░░░░ 40%
+🔵 TypeScript ██░░░░░░░░░░░░░░ 15%
+
+---
+
+
+> *Note: The percentages are just a rough estimate based on my current usage.*
 
 ---
 
@@ -39,7 +50,8 @@ Here are the technologies I frequently use:
 ---
 
 ## 📫 Get in Touch  
-- 💬 Feel free to reach out if you want to collaborate or discuss tech-related topics!  
-- 🌎 [Your LinkedIn/GitHub/Twitter/Portfolio Link]  
+- 🌎 **Website:** [fahri-r-web.vercel.app](https://fahri-r-web.vercel.app/)  
+- 💼 **LinkedIn:** [Fahri Radiansyah](https://www.linkedin.com/in/fahri-radiansyah-82b135295)  
+- 📧 **Email:** [fahri.radiasnyah@gmail.com](mailto:fahri.radiasnyah@gmail.com)  
 
 🚀 Happy Coding!  
