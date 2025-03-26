@@ -44,8 +44,8 @@ Here are the technologies I frequently use:
 ### **Tools & Platforms:**  
 - Git & GitHub  
 - MySQL & PostgreSQL  
-- Docker (beginner level)  
-- VS Code  
+- VS Code
+- Android Studio
 
 ---
 
