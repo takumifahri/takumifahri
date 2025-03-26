@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Takuni!
 
 I'm a **Software Engineering student** who is passionate about learning new technologies. While my experience is still growing, I'm always eager to explore and improve my skills in web development and software engineering.  
 
