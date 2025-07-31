@@ -1,39 +1,67 @@
-## Hi there! 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I'm Fahri R, an enthusiastic undergraduate in Software Engineering at IPB University, passionate about building scalable applications and learning new technologies!
+###
 
-## About Me
+<p align="left">My name is Fahri Radiansyah and II'm a Software Engineering student who is passionate about learning new technologies. While my experience is still growing, I'm always eager to explore and improve my skills in web development and software engineering. I'm still studying Software engineering at IPB University.</p>
 
-Based in Bogor, Indonesia, I am currently pursuing my studies at IPB University. My focus is on developing software solutions that are both innovative and efficient.
+###
 
-## Skills & Technologies
+<h2 align="left">About me</h2>
 
-go,html,css,django,nodejs,express,react,vue,git,github,laravel
+###
 
-## Top Projects
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Golang and Spring Boot Kotlin!<br>🎯 Goals: Masterizing Backend Development and creating the most optimize backend that can be flexible.<br>🎲 Fun fact: I usually spent my free time with learning new language and playing online games.</p>
 
-- [RESTful-API-GO](https://github.com/takumifahri/RESTful-API-GO): A Go-based RESTful API project. Stars: 0, Language: Go
-- [liburan-tenang-Java](https://github.com/takumifahri/liburan-tenang-Java): A Java learning repository. Stars: 0, Language: Java
-- [express-ts-learning](https://github.com/takumifahri/express-ts-learning): A finance management system built with Express and TypeScript. Stars: 0, Language: TypeScript
-- [django-manajemen-keuangan](https://github.com/takumifahri/django-manajemen-keuangan): A Django project for financial management. Stars: 0, Language: Python
+###
 
-## GitHub Stats
+<h2 align="left">I code with</h2>
 
-Public Repositories: 47
-Followers: 8
-Following: 20
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takumifahri&show_icons=true&theme=radical)
+###
 
-## Recent Activity
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</div>
 
-- Pushed updates to [RESTful-API-GO](https://github.com/takumifahri/RESTful-API-GO) - Class Done for Go trying to implement the real cases POS.
-- Added login and registration features to [RESTful-API-GO](https://github.com/takumifahri/RESTful-API-GO).
-- Contributed to multiple repositories including [liburan-tenang-Java](https://github.com/takumifahri/liburan-tenang-Java) and [django-manajemen-keuangan](https://github.com/takumifahri/django-manajemen-keuangan).
+###
 
-## Latest Blog Posts
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takumifahri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=takumifahri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=takumifahri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-Currently, I am not maintaining a blog. I plan to start sharing my projects and learning experiences soon!
+###
 
-## Connect with Me
+<div align="left">
+  <a href="www.linkedin.com/in/fahri-radiansyah-82b135295" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/fhri.r_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="fahri.radiansyah@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-www.linkedin.com/in/fahri-radiansyah-82b135295
+###
+
+<img src="https://raw.githubusercontent.com/takumifahri/takumifahri/output/snake.svg" alt="Snake animation" />
+
+###
