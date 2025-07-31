@@ -23,13 +23,6 @@
 </div>
 
 
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'takumifahri' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takumifahri&theme=default&hide_border=false" />
-</div>
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
