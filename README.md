@@ -52,10 +52,4 @@
   </a>
 </div>
 
----
-⭐️ From [Fahri R](https://github.com/takumifahri)
-###
 
-<img src="https://raw.githubusercontent.com/takumifahri/takumifahri/output/snake.svg" alt="Snake animation" />
-
-###
