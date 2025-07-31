@@ -62,8 +62,8 @@ Most perform Programming Language
 
 ---
 ⭐️ From [Fahri R](https://github.com/takumifahri)
+###
 
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/takumifahri/count.svg" alt="Visitor Count" />
-</div>
+<img src="https://raw.githubusercontent.com/takumifahri/takumifahri/output/snake.svg" alt="Snake animation" />
+
+###
