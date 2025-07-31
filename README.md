@@ -1,19 +1,18 @@
-# Hi 👋, I'm Fahri R
+<h1 align="left">Hey 👋 What's up?</h1>
 
-**I love Learning new Languages! it's thrilling me, i felt like a challenge to learn the syntax and the basic concepts.**
+###
 
-## 🔭 I'm currently working on
+<p align="left">My name is Fahri Radiansyah and II'm a Software Engineering student who is passionate about learning new technologies. While my experience is still growing, I'm always eager to explore and improve my skills in web development and software engineering. I'm still studying Software engineering at IPB University.</p>
 
-Backend Developer at Agridation SV IPB 2025
+###
 
-## 🌱 I'm currently learning
+<h2 align="left">About me</h2>
 
-Learning a full-stack operation with maximum optimize for a better experience and receiving data.
+###
 
-## 👀 I'm interested in
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Golang and Spring Boot Kotlin!<br>🎯 Goals: Masterizing Backend Development and creating the most optimize backend that can be flexible.<br>🎲 Fun fact: I usually spent my free time with learning new language and playing online games.</p>
 
-Most perform Programming Language
-
+###
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'takumifahri' with your actual GitHub username in the URL below -->
